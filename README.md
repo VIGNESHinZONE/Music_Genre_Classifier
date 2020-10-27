@@ -52,3 +52,7 @@ Diffrent classification and Deep Learning models were used to classify data. Dif
 
 # Results
 SVM gave the highest test accuracy with .82 percent and seemed to perform very well in predicting Classical, Metal,Pop genres. But gave poor accuracy with Reggae, Disco, Country genres
+
+# Acknowledgement
+
+Thank ACM Student Chapter for giving this oppurtunity
